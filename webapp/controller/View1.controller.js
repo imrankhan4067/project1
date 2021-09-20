@@ -8,6 +8,7 @@ sap.ui.define([
 		"use strict";
 
 		return Controller.extend("nv.project1.controller.View1", {
+            // Synched to public git with name project1
 			onInit: function () {
 
 			}
